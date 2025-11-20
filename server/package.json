@@ -1,0 +1,15 @@
+{
+  "name": "autonobot-server",
+  "version": "1.0.0",
+  "description": "Backend de control para navegador autónomo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.5.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  }
+}

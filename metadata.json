@@ -1,0 +1,5 @@
+{
+  "name": "AUTONOBOT ",
+  "description": "An autonomous browser interface powered by Gemini, featuring a split-screen chat and browser simulation.",
+  "requestFramePermissions": []
+}
